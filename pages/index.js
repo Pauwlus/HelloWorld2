@@ -5,7 +5,7 @@ export default () => (
     <div>===========</div>
     <div> </div>
     Hallo Wereld.
-    <div>Versie 10d</div>
+    <div>Versie 10e</div>
     <Link href="/about">
       <a>Over</a>
     </Link>
