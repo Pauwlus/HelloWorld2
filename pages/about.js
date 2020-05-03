@@ -1,9 +1,9 @@
 import Link from "next/link";
 export default () => (
   <div>
-    Over ons: Paul den Boer
+    <div>Over ons: Paul den Boer</div>
     <Link href="/">
-      <a>Startpagina 6/a>
+      <a>{"<<Terug"}</a>
     </Link>
   </div>
 );
