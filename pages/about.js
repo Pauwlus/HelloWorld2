@@ -3,7 +3,7 @@ export default () => (
   <div>
     Over ons: Paul den Boer
     <Link href="/">
-      <a>Startpagina</a>
+      <a>Startpagina 2</a>
     </Link>
   </div>
 );
